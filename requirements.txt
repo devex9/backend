@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gunicorn  # Add this line
+requests
+pandas
+numpy
